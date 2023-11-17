@@ -1,0 +1,1 @@
+//All Types Of Pattern In One

@@ -1,0 +1,17 @@
+#Function
+1.Sum of first n natural numbers
+2.Check pythagorian triplet
+3.Conversions
+    a.Binary to decimal
+    b.Octal to decimal
+    c.Hexadecimal to decimal
+    d.Decimal to Binary
+    e.Decimal to Octal
+    f.Decimal to Hexadecimal
+4.Add two binary numbers
+5.Max chocolates=> you have 15 rupees and 1 chocolate = 1 rupees and 3 wrapper = 1 chocolate.(ans 22)
+6.fastest 3 horses => you have 25 horses at max 5 can race together finr min races fastest 3 horses
+#Array
+7.max till i => Given array a[] of size n.foe every i from 0 to n-1 output max(a[0],a[1],.....,a[i]).
+8.sum of all sub array=> given an array of size n.output sum of each subarray of given array.
+9.queen and chess board.

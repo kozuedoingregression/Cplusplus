@@ -1,0 +1,95 @@
+Q1Rectangle Pattern
+****        rows:5
+****        columns:4
+****
+****
+****
+Q2Hollow Rectangle Pattern
+****        rows:5
+*  *        columns:4
+*  *
+*  *
+****
+Q3Inverted Half Pyramid
+*****
+****        n=5
+***
+**
+*
+Q4Half Pyramid right or 180 rotation
+    *
+   **      n=5
+  ***
+ ****
+*****
+Q5Half pyramid using numbers
+1
+22        n=5
+333
+4444
+55555
+
+Q6Floyd's Triangle
+1
+23       n=5
+456
+78910
+1112131415
+Q7Butterfly Pattern
+*      *
+**    **   n=4
+***  ***
+********
+********
+***  ***
+**    **
+*      *
+Q8Inverted Pattern
+12345
+1234    n=5
+123
+12
+1
+Q9 0-1 Pattern
+1
+01     n=5
+101
+0101
+10101
+Q10 Rhombus Pattern
+    *****
+   *****   n=5
+  *****
+ *****
+*****
+Q11Number pattern
+    1 
+   1 2    n=5
+  1 2 3
+ 1 2 3 4
+1 2 3 4 5
+Q12Palindromic pattern
+        1 
+      2 1 2    n=5
+    3 2 1 2 3
+  4 3 2 1 2 3 4
+5 4 3 2 1 2 3 4 5
+Q13Star pattern
+   *
+  ***
+ *****     n=4
+*******
+*******
+ *****
+  ***
+   *
+Q14 Zig-Zag Pattern
+  *   *  
+ * * * *   n=9
+*   *   *
+Q15 Pascal Triangle(nCr)
+1
+11     n=5
+121
+1331
+14641

@@ -1,0 +1,11 @@
+
+.backcolor
+{
+    background-repeat: no-repeat;
+    background-size:13%;
+    background-image: url(zenitsuu.jpg);
+    background-attachment:scroll;
+    background-position: center ;
+    height: 50%;
+    width: 100%;
+}
